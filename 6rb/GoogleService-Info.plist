@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>453094140626-k46vhl4fqu9d41n9iboopemovidj9873.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.453094140626-k46vhl4fqu9d41n9iboopemovidj9873</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC8i5ZcpxF28F3j4LsYPFyZT7qKvXVTLKM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>453094140626</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.6rb.kw</string>
+	<key>PROJECT_ID</key>
+	<string>rb-manage</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rb-manage.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:453094140626:ios:32f8614edc37d9e5b41b0b</string>
+	<key>DATABASE_URL</key>
+	<string>https://rb-manage.firebaseio.com</string>
+</dict>
+</plist>
